@@ -22,4 +22,8 @@
 - Mining long (colossal) patterns
 - Graph pattern mining: gSpan, CloseGraph, graph indexing methods, mining top-k large structural patterns in single large network, and graph mining applications such as graph indexing and similarity search in graph databases
 - Pattern-based classifications, including CBA, CMAR, PatClass, DDPMine, DPClass
+- frequent patterns
+- closed patterns
+- max-patterns
+- association rules
  
